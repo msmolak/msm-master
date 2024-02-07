@@ -6,3 +6,4 @@ nowy tekst :-)
 
 ## zmiana msm2
 koniec.
+## zmiana msm3
